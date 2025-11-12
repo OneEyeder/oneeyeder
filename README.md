@@ -46,6 +46,6 @@
 
 <div align="center">
 
-**🔗 Свяжитесь со мной:** [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourusername) | [Email](mailto:your.email@example.com)
+**🔗 Свяжитесь со мной:** [GitHub](https://github.com/oneeyeder) | [telegram](https://t.me/VintedFisher)
 
 </div>
